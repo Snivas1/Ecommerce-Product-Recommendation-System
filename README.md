@@ -74,3 +74,38 @@ The system uses a hybrid recommendation approach that combines:
 The app will automatically create or migrate the database schema when it starts. If
 you make manual changes to the schema while the app is running, you can remove
 `database.db` and restart the server to rebuild it from scratch.
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Home Page
+![Home](screenshots/home_1.png)
+
+### Recommendations
+![Recommendations](screenshots/recommend.png)
+
+## Tech Stack
+
+- Python
+- Flask
+- SQLite
+- Pandas
+- Scikit-Learn
+- HTML
+- CSS
+- Machine Learning
+
+## Future Enhancements
+
+- Deep Learning Recommendations
+- User Wishlist
+- Admin Dashboard
+- Product Reviews
+- Real-time Recommendation Engine
+
+## Author
+
+**Shanaboina Nivas**  
+B.Tech CSE (AI & ML)  
+St. Martin's Engineering College
