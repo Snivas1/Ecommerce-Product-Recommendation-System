@@ -83,7 +83,7 @@ you make manual changes to the schema while the app is running, you can remove
 ![Home](static/screenshots/home_1.png)
 
 ### Recommendations
-![static/Recommendations](screenshots/recommend.png)
+![static/Recommendations](static/screenshots/recommend.png)
 
 ## Tech Stack
 
