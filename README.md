@@ -77,13 +77,13 @@ you make manual changes to the schema while the app is running, you can remove
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](static/screenshots/login.png)
 
 ### Home Page
-![Home](screenshots/home_1.png)
+![Home](static/screenshots/home_1.png)
 
 ### Recommendations
-![Recommendations](screenshots/recommend.png)
+![static/Recommendations](screenshots/recommend.png)
 
 ## Tech Stack
 
